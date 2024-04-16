@@ -14,17 +14,17 @@ This Python program calculates the length of a side in a right-angled triangle u
 ## Usage
 
 1. Clone the repository:
-    bash
+    bash:
     git clone https://github.com/Someone090924/Teorema-Pythagoras-Calculator.git
     
 
 2. Navigate to the project directory:
-    bash
+    bash:
     cd Teorema-Pythagoras-Calculator
     
 
 3. Run the program:
-    bash
+    bash:
     python teorema_pythagoras.py
     
 
