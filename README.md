@@ -39,4 +39,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GitHub: [Someone090924](https://github.com/Someone090924)
 - Instagram: [Someone.py](https://www.instagram.com/Someone.py/)
 
-Feel free to contribute by opening issues or creating pull requests!
+Feel free to contribute by opening issues or creating pull  requests!
