@@ -30,13 +30,9 @@ Program Python ini menghitung panjang sisi dalam segitiga siku-siku menggunakan 
 
 4. Ikuti petunjuk di layar untuk melakukan perhitungan.
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) untuk detailnya.
-
 ## Penulis
 
 - GitHub: [Someone090924](https://github.com/Someone090924)
 - Instagram: [Someone.py](https://www.instagram.com/Someone.py/)
 
-Silakan berkontribusi dengan membuka isu atau membuat permintaan tarik (pull requests)!
+Silakan memberikan saran!
